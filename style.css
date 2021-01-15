@@ -1,0 +1,14 @@
+h1 {
+    color: skyblue;
+}
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#ha {
+    text-align: center;
+    font-size: 30px;
+    width: 200px;
+}
